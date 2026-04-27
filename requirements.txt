@@ -1,0 +1,7 @@
+# Python 3.11 required — pydub is incompatible with Python 3.13 (audioop removed)
+
+demucs
+pydub
+numpy
+scipy
+httpx

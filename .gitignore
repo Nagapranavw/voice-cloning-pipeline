@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Conda
+.conda/
+
+# Audio files (can be large — don't commit to repo)
+output/
+*.wav
+*.mp3
+*.flac
+
+# Model weights (download separately)
+checkpoints/
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports
+review_report_*.txt
+
+# Input recordings — keep your own audio files out of the repo
+recordings/
+examples/urls.txt
